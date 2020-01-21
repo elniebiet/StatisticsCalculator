@@ -1,2 +1,2 @@
 # StatisticsCalculator
-Analysis a given set of input data, plots a histogram and results
+Analyzes a given set of input data, plots a histogram and results
